@@ -1,6 +1,3 @@
-// Получить тестовый токен авторизации
-// https://oauth.yandex.ru/authorize?response_type=token&client_id=a00af60f173b48069768971060ebb81d
-
 #Использовать ".."
 
 Перем юТест;
