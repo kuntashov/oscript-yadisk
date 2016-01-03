@@ -59,7 +59,7 @@
 
 Получить токен авторизации можно вручную, перейдя в браузере по ссылке вида:
 
-    `https://oauth.yandex.ru/authorize?response_type=token&client_id=<ID приложения>`
+    https://oauth.yandex.ru/authorize?response_type=token&client_id=<ID приложения>
 
 где `<ID приложени>` - идентификатор вашего приложения, зарегистрированного на Яндексе (https://oauth.yandex.ru/client/new).
 
